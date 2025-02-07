@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Han Wiguna Chandra
+Hello! my name is Han Wiguna Chandra, and I am an informatics student from Institut Sains dan Teknologi Terpadu Surabaya. 
 
 <!--
 **Zinx140/Zinx140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
