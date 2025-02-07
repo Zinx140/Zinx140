@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Han Wiguna Chandra
 Hello! my name is Han Wiguna Chandra, and I am an informatics student from Institut Sains dan Teknologi Terpadu Surabaya. 
+<br>
 
-## 🔧 Programming Languages & Tools
+## 🔧 My Programming Languages & Tools
 ![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -11,7 +12,7 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<br>
 
 ## 📊 My Github Stats
 <p>
