@@ -1,7 +1,10 @@
 # Hi there 👋, I'm Han Wiguna Chandra
 Hello! my name is Han Wiguna Chandra, and I am an informatics student from Institut Sains dan Teknologi Terpadu Surabaya. 
 
-## 📊 Github Stats
+## 🔧 Programming Language & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 📊 My Github Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zinx140&show_icons=true&locale=en&layout=compact" alt="Zinx140" />
 </p>
