@@ -15,6 +15,8 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 <br>
 
 ## 📊 My Github Stats
