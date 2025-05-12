@@ -21,15 +21,15 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
 
 ## 📊 My Github Stats
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zinx140&show_icons=true&locale=en&layout=compact" alt="Zinx140" />
-</div>
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Zinx140&show_icons=true&locale=en" alt="Zinx140" />
   <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Eka-Santoso" alt="Bryan-Eka-Santoso" /></p> -->
-</p>
-<p>
+</div>
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zinx140&show_icons=true&locale=en&layout=compact" alt="Zinx140" />
+</div>
+<div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zinx140" alt="Zinx140" /></a>
-</p>
+</div>
 <!--
 **Zinx140/Zinx140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
