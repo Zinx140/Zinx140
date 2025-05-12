@@ -20,7 +20,7 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
 <br>
 
 ## 📊 My Github Stats
-<div align:center>
+<div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zinx140&show_icons=true&locale=en&layout=compact" alt="Zinx140" />
 </div>
 <p>
