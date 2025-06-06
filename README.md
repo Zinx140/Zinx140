@@ -28,7 +28,7 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
   <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Eka-Santoso" alt="Bryan-Eka-Santoso" /></p> -->
 </div>
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zinx140&theme=radical" alt="Zinx140" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zinx140" alt="Zinx140" /></a>
 </div>
 <!--
 **Zinx140/Zinx140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
