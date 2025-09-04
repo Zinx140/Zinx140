@@ -28,7 +28,9 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Zinx140&title=-Reviews" alt="Zinx140"/>
 </p>
- <br> <br> <br>
+
+##  
+ 
  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"/>
     
 <!--
