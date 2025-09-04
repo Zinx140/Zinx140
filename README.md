@@ -24,11 +24,12 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
     <img src="https://github-readme-stats.vercel.app/api?username=Zinx140&show_icons=true&locale=en" alt="Zinx140" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zinx140&show_icons=true&locale=en&layout=compact" alt="Zinx140" />
 </div>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zinx140&title=MultiLanguage,Commits,Stars,Followers,Repositories,Experience" alt="Zinx140" />
-  </a>
-</div>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Zinx140&title=-Reviews" alt="Zinx140"/>
+</p>
+
+    
 <!--
 **Zinx140/Zinx140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
