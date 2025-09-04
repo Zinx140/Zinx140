@@ -30,7 +30,6 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
 </p>
  <br> <br> <br>
  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"/>
- <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg"/>
     
 <!--
 **Zinx140/Zinx140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
