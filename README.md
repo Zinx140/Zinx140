@@ -29,6 +29,11 @@ Hello! my name is Han Wiguna Chandra, and I am an informatics student from Insti
     <img src="https://github-profile-trophy.vercel.app/?username=Zinx140&title=-Reviews" alt="Zinx140"/>
 </p>
 
+## 🔝 Top Contributed Repo
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Zinx140&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Zinx140"/>
+</p>
+
 ##  
  
  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"/>
