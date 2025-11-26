@@ -1,6 +1,7 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <h1>Hi there 👋, I'm Han Wiguna Chandra</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-eka-santoso&label=Profile%20views&color=0e75b6&style=flat" alt="bryan-eka-santoso" /> </p>
 Hello! my name is Han Wiguna Chandra, and I am an informatics student from Institut Sains dan Teknologi Terpadu Surabaya. 
 <br>
 
